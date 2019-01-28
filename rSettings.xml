@@ -1,0 +1,5 @@
+<application>
+  <component name="RSettings">
+    <option name="interpreterPath" value="django" />
+  </component>
+</application>
